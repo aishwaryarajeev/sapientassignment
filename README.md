@@ -1,6 +1,8 @@
-LightHouse Score
+## LightHouse Score
 
-
+![](images/Screenshot%202020-09-28%20at%202.06.52%20AM.png)
+![](images/Screenshot%202020-09-28%20at%202.07.22%20AM.png)
+![](images/Screenshot%202020-09-28%20at%202.07.32%20AM.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
