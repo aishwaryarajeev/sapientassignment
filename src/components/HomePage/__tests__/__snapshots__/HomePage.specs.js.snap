@@ -1,3 +1,240 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`<HomePage /> should render correctly 1`] = `""`;
+exports[`<HomePage /> should render correctly 1`] = `
+<Fragment>
+   
+  <div
+    className="makeStyles-mainContainer-1"
+  >
+    <div
+      className="makeStyles-header-2"
+    >
+      SpaceX Launch Programs
+    </div>
+    <div
+      className="makeStyles-itemContainer-3"
+    >
+      <div
+        className="makeStyles-filters-4"
+      >
+        Filters
+        <div
+          className="makeStyles-filterTitle-6"
+        >
+          Launch Year
+        </div>
+        <div
+          className="makeStyles-filterItems-7"
+        >
+          <button
+            className="makeStyles-buttonStyle-8"
+            id="Launch Year"
+            key="2006"
+            onClick={[Function]}
+            value={2006}
+          >
+            2006
+          </button>
+          <button
+            className="makeStyles-buttonStyle-8"
+            id="Launch Year"
+            key="2007"
+            onClick={[Function]}
+            value={2007}
+          >
+            2007
+          </button>
+          <button
+            className="makeStyles-buttonStyle-8"
+            id="Launch Year"
+            key="2008"
+            onClick={[Function]}
+            value={2008}
+          >
+            2008
+          </button>
+          <button
+            className="makeStyles-buttonStyle-8"
+            id="Launch Year"
+            key="2009"
+            onClick={[Function]}
+            value={2009}
+          >
+            2009
+          </button>
+          <button
+            className="makeStyles-buttonStyle-8"
+            id="Launch Year"
+            key="2010"
+            onClick={[Function]}
+            value={2010}
+          >
+            2010
+          </button>
+          <button
+            className="makeStyles-buttonStyle-8"
+            id="Launch Year"
+            key="2011"
+            onClick={[Function]}
+            value={2011}
+          >
+            2011
+          </button>
+          <button
+            className="makeStyles-buttonStyle-8"
+            id="Launch Year"
+            key="2012"
+            onClick={[Function]}
+            value={2012}
+          >
+            2012
+          </button>
+          <button
+            className="makeStyles-buttonStyle-8"
+            id="Launch Year"
+            key="2013"
+            onClick={[Function]}
+            value={2013}
+          >
+            2013
+          </button>
+          <button
+            className="makeStyles-buttonStyle-8"
+            id="Launch Year"
+            key="2014"
+            onClick={[Function]}
+            value={2014}
+          >
+            2014
+          </button>
+          <button
+            className="makeStyles-buttonStyle-8"
+            id="Launch Year"
+            key="2015"
+            onClick={[Function]}
+            value={2015}
+          >
+            2015
+          </button>
+          <button
+            className="makeStyles-buttonStyle-8"
+            id="Launch Year"
+            key="2016"
+            onClick={[Function]}
+            value={2016}
+          >
+            2016
+          </button>
+          <button
+            className="makeStyles-buttonStyle-8"
+            id="Launch Year"
+            key="2017"
+            onClick={[Function]}
+            value={2017}
+          >
+            2017
+          </button>
+          <button
+            className="makeStyles-buttonStyle-8"
+            id="Launch Year"
+            key="2018"
+            onClick={[Function]}
+            value={2018}
+          >
+            2018
+          </button>
+          <button
+            className="makeStyles-buttonStyle-8"
+            id="Launch Year"
+            key="2019"
+            onClick={[Function]}
+            value={2019}
+          >
+            2019
+          </button>
+          <button
+            className="makeStyles-buttonStyle-8"
+            id="Launch Year"
+            key="2020"
+            onClick={[Function]}
+            value={2020}
+          >
+            2020
+          </button>
+        </div>
+        <div
+          className="makeStyles-filterTitle-6"
+        >
+          Successful Launch
+        </div>
+        <div
+          className="makeStyles-filterItems-7"
+        >
+          <button
+            className="makeStyles-buttonStyle-8"
+            id="Successful Launch"
+            key="0"
+            onClick={[Function]}
+            value="True"
+          >
+            True
+          </button>
+          <button
+            className="makeStyles-buttonStyle-8"
+            id="Successful Launch"
+            key="1"
+            onClick={[Function]}
+            value="False"
+          >
+            False
+          </button>
+        </div>
+        <div
+          className="makeStyles-filterTitle-6"
+        >
+          Successful Landing
+        </div>
+        <div
+          className="makeStyles-filterItems-7"
+        >
+          <button
+            className="makeStyles-buttonStyle-8"
+            id="Successful Landing"
+            key="0"
+            onClick={[Function]}
+            value="True"
+          >
+            True
+          </button>
+          <button
+            className="makeStyles-buttonStyle-8"
+            id="Successful Landing"
+            key="1"
+            onClick={[Function]}
+            value="False"
+          >
+            False
+          </button>
+        </div>
+      </div>
+      <div
+        className="makeStyles-launchItems-5"
+      >
+        <Launches
+          endPoint="https://api.spaceXdata.com/v3/launches?limit=100"
+        />
+      </div>
+    </div>
+    <div
+      className="makeStyles-footer-10"
+    >
+      <span
+        className="makeStyles-footerLabel-11"
+      >
+         Developed by:
+      </span>
+      Aishwarya Rajeev
+    </div>
+  </div>
+</Fragment>
+`;
