@@ -1,0 +1,104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<HomePage /> should render correctly 1`] = `
+<WithStyles(ForwardRef(Card))
+  className="makeStyles-root-1"
+>
+  <WithStyles(ForwardRef(CardContent))>
+    <WithStyles(ForwardRef(Typography))
+      className="makeStyles-img-2"
+    >
+      <img
+        alt="mission"
+        src="\\"https://images2.imgbox.com/3c/0e/T8iJcSN3_o.png\\""
+        width="100%"
+      />
+    </WithStyles(ForwardRef(Typography))>
+    <WithStyles(ForwardRef(Typography))
+      className="makeStyles-heading-5"
+    >
+      FalconSat
+      #
+      1
+    </WithStyles(ForwardRef(Typography))>
+    <WithStyles(ForwardRef(Typography))>
+      <div>
+        <span
+          className="makeStyles-missionID-3"
+          key="0"
+        >
+          Mission Ids
+          :
+        </span>
+        <div>
+          <ul
+            className="makeStyles-values-4"
+            key="EE12345"
+          >
+            <li
+              className="makeStyles-listItems-6"
+              key="EE12345"
+            >
+              EE12345
+            </li>
+          </ul>
+          <ul
+            className="makeStyles-values-4"
+            key="EE12345"
+          >
+            <li
+              className="makeStyles-listItems-6"
+              key="EE12345"
+            >
+              EE12345
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div>
+        <span
+          className="makeStyles-missionID-3"
+          key="1"
+        >
+          Launch Year
+          :
+        </span>
+        <span
+          className="makeStyles-values-4"
+        >
+          2009
+        </span>
+      </div>
+      <div>
+        <span
+          className="makeStyles-missionID-3"
+          key="2"
+        >
+          Successful Launch
+          :
+        </span>
+        <span
+          className="makeStyles-values-4"
+        >
+          true
+        </span>
+      </div>
+      <div>
+        <span
+          className="makeStyles-missionID-3"
+          key="3"
+        >
+          Successful Landing
+          :
+        </span>
+        <span
+          className="makeStyles-values-4"
+        >
+          true
+        </span>
+      </div>
+    </WithStyles(ForwardRef(Typography))>
+     
+  </WithStyles(ForwardRef(CardContent))>
+</WithStyles(ForwardRef(Card))>
+`;
